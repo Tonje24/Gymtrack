@@ -122,7 +122,7 @@ I used AI tools throughout the MVP:
 | Tool | What I used it for |
 |---|---|
 | Claude | Planning the project structure, writing the Express API, the React components, the Dockerfiles and docker-compose, writing the backend tests, creating the feature branches and commits, and writing this README |
-| GitHub Copilot | Suggestions while reviewing and editing code in VS Code |
+| GitHub Copilot | Suggested commit messages when editing files on GitHub. More use is planned for Sprint 2 |
 
 Commits made with Claude are marked with `Co-Authored-By: Claude` in the commit message. I reviewed the code, tested it locally with Docker and merged every pull request myself.
 
